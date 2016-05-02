@@ -1,7 +1,7 @@
 CVS: 0.5
 Resumo: 1
-Projeto: 5.4
-Nota G1: 6.9
+Projeto: 5.9
+Nota G1: 7.4
 ================
 Feedback Resumo
 ================
@@ -12,7 +12,7 @@ Não usou corretor de texto.
 Feedback Projeto
 ===================
 Trabalho não estava na pasta solicitada. Arquivo veio compactado e documentação fora.
-Não tinha o executável e nem instruções de como compilar o programa, com isso não foi possível avaliar a interface gráfica com o programa executando.
+Programa já fecha após a execução do método selecionado. Teria sido melhor implementar um loop para que o programa permanecesse aberto.
 Documentação do código muito fraca: Os algoritmos não estão explicados dentro do código.Explicação simples de cada método. Utilizou referências.
 Poderia ter se dedicado mais ao desenvolvimento do tutorial da aplicação.
 
